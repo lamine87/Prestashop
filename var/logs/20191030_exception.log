@@ -1,0 +1,6 @@
+*ERROR* 	v1.7.6.1	2019/10/30 - 11:25:35: Link to database cannot be established: SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.1	2019/10/30 - 14:46:52: Link to database cannot be established: SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.1	2019/10/30 - 15:18:15: Link to database cannot be established: SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+ at line 127 in file classes/db/DbPDO.php
